@@ -40,7 +40,7 @@ Alternatively, you can download and install the Chatteroom app on your Android d
 <p align="center">
   <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243995887-0666be6a-9f2c-45f0-be6c-f19d7a95fb5b.png" width="200"  />
   <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996213-eb151ff6-2cb2-4e94-b0f3-cb6abeedfa59.png" width="200" /> 
-  <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996213-eb151ff6-2cb2-4e94-b0f3-cb6abeedfa59.png" width="200" />
+  <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996227-c23a2276-a936-4e19-9c6b-cdc43b520f34.png" width="200" />
   <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996251-70e2704c-849d-442c-a934-1f7ee6455404.png" width="200" />
   <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996279-52afe3d5-f385-49bb-ad6d-c622af43fd88.png" width="200"  />
   <img src="https://github.com/digi-kraken206/ChatRoom-Flutter/blob/main/assets/images/243996294-513671e1-e606-4776-9999-bf6d4e742af5.png" width="200" /> 
