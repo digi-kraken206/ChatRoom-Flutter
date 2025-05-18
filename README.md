@@ -23,7 +23,7 @@ Chatteroom is a chat and video call app built using Dart and Flutter with the Pr
 
 To run Chatteroom on your local machine, you'll need to have Flutter and Dart installed. You'll also need to set up a Firebase project to provide the necessary backend services. Follow these steps to get started:
 
-1. Clone the repository: `git clone https://github.com/helloamj/chatteroom.git`
+1. Clone the repository: `git clone https://github.com/digi-kraken206/chatteroom.git`
 2. Navigate to the project directory: `cd chatteroom`
 3. Install the dependencies: `flutter pub get`
 4. Set up your Firebase project and obtain the necessary configuration files (google-services.json for Android, GoogleService-Info.plist for iOS).
@@ -38,19 +38,19 @@ Alternatively, you can download and install the Chatteroom app on your Android d
 
 
 <p align="center">
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/0666be6a-9f2c-45f0-be6c-f19d7a95fb5b" width="200"  />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/eb151ff6-2cb2-4e94-b0f3-cb6abeedfa59" width="200" /> 
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/c23a2276-a936-4e19-9c6b-cdc43b520f34" width="200" />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/70e2704c-849d-442c-a934-1f7ee6455404" width="200" />
-<img src="https://github.com/helloamj/Chatteroom/assets/110400753/52afe3d5-f385-49bb-ad6d-c622af43fd88" width="200"  />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/513671e1-e606-4776-9999-bf6d4e742af5" width="200" /> 
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/d540f9b6-7f55-41e2-842d-eabebb0a6337" width="200" />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/21b032b8-d146-435b-8c32-bb9169414b09" width="200" />
- <img src="https://github.com/helloamj/Chatteroom/assets/110400753/2026f1a3-73ce-4555-ab5e-c80b61300beb" width="200" />
-<img src="https://github.com/helloamj/Chatteroom/assets/110400753/85ff3253-244e-4d28-8fa8-1c803ae02b97" width="200"  />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/2f250173-dc90-478f-9285-0f2d829c17db" width="200" /> 
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/a76e749b-e5bd-4fd4-95f6-efb56dd8429e" width="200" />
-  <img src="https://github.com/helloamj/Chatteroom/assets/110400753/e85185ac-e971-451b-966c-3ec15d5450d3" width="200" />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/0666be6a-9f2c-45f0-be6c-f19d7a95fb5b" width="200"  />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/eb151ff6-2cb2-4e94-b0f3-cb6abeedfa59" width="200" /> 
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/c23a2276-a936-4e19-9c6b-cdc43b520f34" width="200" />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/70e2704c-849d-442c-a934-1f7ee6455404" width="200" />
+<img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/52afe3d5-f385-49bb-ad6d-c622af43fd88" width="200"  />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/513671e1-e606-4776-9999-bf6d4e742af5" width="200" /> 
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/d540f9b6-7f55-41e2-842d-eabebb0a6337" width="200" />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/21b032b8-d146-435b-8c32-bb9169414b09" width="200" />
+ <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/2026f1a3-73ce-4555-ab5e-c80b61300beb" width="200" />
+<img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/85ff3253-244e-4d28-8fa8-1c803ae02b97" width="200"  />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/2f250173-dc90-478f-9285-0f2d829c17db" width="200" /> 
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/a76e749b-e5bd-4fd4-95f6-efb56dd8429e" width="200" />
+  <img src="https://github.com/digi-kraken206/Chatteroom/assets/110400753/e85185ac-e971-451b-966c-3ec15d5450d3" width="200" />
 </p>
 
 ## Support and Contact 📧
@@ -63,4 +63,4 @@ We welcome contributions from the community! If you'd like to contribute to Chat
 
 ## License 📜
 
-Chatteroom is licensed under the MIT License. See the [LICENSE](https://github.com/helloamj/chatteroom/LICENSE) file for details.
+Chatteroom is licensed under the MIT License. See the [LICENSE](https://github.com/digi-kraken206/chatteroom/LICENSE) file for details.
